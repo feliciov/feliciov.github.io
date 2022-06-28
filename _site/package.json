@@ -1,0 +1,26 @@
+{
+  "name": "feliciov.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/feliciov/feliciov.github.io.git"
+  },
+  "author": "Felício Visnardi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/feliciov/feliciov.github.io/issues"
+  },
+  "homepage": "https://github.com/feliciov/feliciov.github.io#readme",
+  "devDependencies": {
+    "@tailwindcss/typography": "^0.5.2",
+    "autoprefixer": "^10.4.7",
+    "postcss": "^8.4.14",
+    "postcss-import": "^14.1.0",
+    "tailwindcss": "^3.1.4"
+  }
+}
